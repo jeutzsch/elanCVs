@@ -33,7 +33,7 @@
     <CONTROLLED_VOCABULARY CV_ID="gesture_CV">
         <DESCRIPTION LANG_REF="und"/>
         <CV_ENTRY_ML CVE_ID="cveid_28bb65cf-8c1c-434d-bab6-7b2312be2723">
-            <CVE_VALUE DESCRIPTION="" LANG_REF="und">stroked</CVE_VALUE>
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">stroke</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_03dc8d75-9ea1-470c-b6b0-eeef1c9e7b51">
             <CVE_VALUE DESCRIPTION="" LANG_REF="und">undecided</CVE_VALUE>
