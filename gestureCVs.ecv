@@ -30,7 +30,7 @@
             <CVE_VALUE DESCRIPTION="" LANG_REF="und">undecided</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="gesture_CV">
+    <CONTROLLED_VOCABULARY CV_ID="gesture_phase_CV">
         <DESCRIPTION LANG_REF="und"/>
         <CV_ENTRY_ML CVE_ID="cveid_28bb65cf-8c1c-434d-bab6-7b2312be2723">
             <CVE_VALUE DESCRIPTION="" LANG_REF="und">stroke</CVE_VALUE>
