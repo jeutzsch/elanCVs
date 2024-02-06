@@ -1,45 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CV_RESOURCE AUTHOR="" DATE="2024-01-24T12:09:40+02:00" VERSION="0.2"
+<CV_RESOURCE AUTHOR="" DATE="2024-02-06T17:24:24+02:00" VERSION="0.2"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
         LANG_ID="und" LANG_LABEL="undetermined (und)"/>
-    <CONTROLLED_VOCABULARY CV_ID="gesture_type_CV">
+    <CONTROLLED_VOCABULARY CV_ID="gesture_phase_CV">
         <DESCRIPTION LANG_REF="und"/>
-        <CV_ENTRY_ML CVE_ID="cveid_9b56c3f7-84fb-487a-972b-6521e5939399">
-            <CVE_VALUE DESCRIPTION="" LANG_REF="und">iconic</CVE_VALUE>
+        <CV_ENTRY_ML CVE_ID="cveid_6f8e7b63-c256-4c03-9ace-8889f058790e">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">stroke</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_a9b677fd-6472-4470-bfd4-847f60803f80">
-            <CVE_VALUE DESCRIPTION="" LANG_REF="und">deictic</CVE_VALUE>
+        <CV_ENTRY_ML CVE_ID="cveid_5d218690-eae2-4945-be2b-7da2da14fe5f">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">preparation</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_8be00383-3eed-45a0-99cc-6747ff0b8b1f">
-            <CVE_VALUE DESCRIPTION="" LANG_REF="und">metaphoric</CVE_VALUE>
+        <CV_ENTRY_ML CVE_ID="cveid_4b28589d-a5f9-4a6f-ae09-c088858c2704">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">recovery</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_42da7dc8-2c9a-4867-ae39-645ec1d457a4">
-            <CVE_VALUE DESCRIPTION="" LANG_REF="und">beat</CVE_VALUE>
+        <CV_ENTRY_ML CVE_ID="cveid_c3763e4f-ca4f-426d-a72e-6b9148689a12">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">hold</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_bc62fb39-26b2-48cd-8b07-25ab8ba4ebf9">
-            <CVE_VALUE DESCRIPTION="" LANG_REF="und">emblem</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_28fef044-3585-422d-a73f-ae6b90470188">
-            <CVE_VALUE DESCRIPTION="" LANG_REF="und">pragmatic</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_53ceefa9-9057-4f1f-b9d3-377b55826b40">
-            <CVE_VALUE DESCRIPTION="" LANG_REF="und">other</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_c8012e37-430a-47d1-9fd8-e78a09b63c59">
+        <CV_ENTRY_ML CVE_ID="cveid_f476a29f-e9c5-4d04-9527-f83952918a91">
             <CVE_VALUE DESCRIPTION="" LANG_REF="und">undecided</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="gesture_phase_CV">
+    <CONTROLLED_VOCABULARY CV_ID="gesture_type_CV">
         <DESCRIPTION LANG_REF="und"/>
-        <CV_ENTRY_ML CVE_ID="cveid_28bb65cf-8c1c-434d-bab6-7b2312be2723">
-            <CVE_VALUE DESCRIPTION="" LANG_REF="und">stroke</CVE_VALUE>
+        <CV_ENTRY_ML CVE_ID="cveid_b5c3efa8-d093-4536-9893-9c245fa0efdf">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">iconic</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_03dc8d75-9ea1-470c-b6b0-eeef1c9e7b51">
+        <CV_ENTRY_ML CVE_ID="cveid_bf8d7cb6-d191-440d-b914-05e79956c00b">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">deictic</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4bfb9340-366a-4fdb-83cc-b3b777696d26">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">metaphoric</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a26ee5ba-1f55-45a5-a219-97fec1341757">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">beat</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_12d6569d-edf5-454a-b8b4-1260e98b36bc">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">emblem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3378265a-f18d-42f4-ad77-144f9b74d40d">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">pragmatic</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_eeb203d9-8904-4a7c-96aa-5e5a4c52f5d9">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">other</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_aa167a9e-b0e0-4b3e-b8b0-1a29382130fd">
             <CVE_VALUE DESCRIPTION="" LANG_REF="und">undecided</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="">
-            <CVE_VALUE DESCRIPTION="" LANG_REF="und">preparation</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
 </CV_RESOURCE>
