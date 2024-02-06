@@ -38,5 +38,8 @@
         <CV_ENTRY_ML CVE_ID="cveid_03dc8d75-9ea1-470c-b6b0-eeef1c9e7b51">
             <CVE_VALUE DESCRIPTION="" LANG_REF="und">undecided</CVE_VALUE>
         </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
 </CV_RESOURCE>
