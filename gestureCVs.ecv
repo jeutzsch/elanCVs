@@ -48,4 +48,10 @@
             <CVE_VALUE DESCRIPTION="" LANG_REF="und">undecided</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="neg_gesture_CV">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">TBD</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
 </CV_RESOURCE>
