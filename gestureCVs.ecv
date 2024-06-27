@@ -50,8 +50,32 @@
     </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="neg_gesture_CV">
         <DESCRIPTION LANG_REF="und"/>
-        <CV_ENTRY_ML CVE_ID="cveid_1b7de030-c258-4fe8-877a-134e71e9561b">
-            <CVE_VALUE DESCRIPTION="" LANG_REF="und">TBD</CVE_VALUE>
+        <CV_ENTRY_ML CVE_ID="">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">head shake</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">open palm up</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">throwing away</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">sweeping away</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">holding away</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">punch</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">shrug</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">finger wag</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">undefined</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
 </CV_RESOURCE>
