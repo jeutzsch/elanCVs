@@ -50,31 +50,31 @@
     </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="neg_gesture_CV">
         <DESCRIPTION LANG_REF="und"/>
-        <CV_ENTRY_ML CVE_ID="">
+        <CV_ENTRY_ML CVE_ID="cveid_bcf92824-a0af-4049-b53c-8d7bab0a354c">
             <CVE_VALUE DESCRIPTION="" LANG_REF="und">head shake</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="">
+        <CV_ENTRY_ML CVE_ID="cveid_ff343783-bd57-4614-af24-610a6ab5615e">
             <CVE_VALUE DESCRIPTION="" LANG_REF="und">open palm up</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="">
+        <CV_ENTRY_ML CVE_ID="cveid_f025dc7e-6dbf-4c89-a97a-1a494e47a119">
             <CVE_VALUE DESCRIPTION="" LANG_REF="und">throwing away</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="">
+        <CV_ENTRY_ML CVE_ID="cveid_0a578a1f-a61a-494d-9ad0-40b27e0ddf97">
             <CVE_VALUE DESCRIPTION="" LANG_REF="und">sweeping away</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="">
+        <CV_ENTRY_ML CVE_ID="cveid_c80c4de8-e892-4c88-9df2-8e3ab1224e4d">
             <CVE_VALUE DESCRIPTION="" LANG_REF="und">holding away</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="">
+        <CV_ENTRY_ML CVE_ID="cveid_12650354-0a16-4dcb-bbf6-c136b11e67c4">
             <CVE_VALUE DESCRIPTION="" LANG_REF="und">punch</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="">
+        <CV_ENTRY_ML CVE_ID="cveid_d577b890-c6ec-4d72-b171-20b78afe9186">
             <CVE_VALUE DESCRIPTION="" LANG_REF="und">shrug</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="">
+        <CV_ENTRY_ML CVE_ID="cveid_fae02755-f720-4259-b344-668d944215e6">
             <CVE_VALUE DESCRIPTION="" LANG_REF="und">finger wag</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="">
+        <CV_ENTRY_ML CVE_ID="cveid_7b2d4df4-82c8-4142-a5f2-c7a5b5e5be93">
             <CVE_VALUE DESCRIPTION="" LANG_REF="und">undefined</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
