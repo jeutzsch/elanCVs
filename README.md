@@ -9,7 +9,7 @@ See also the [online ELAN manual](https://www.mpi.nl/tools/elan/docs/manual/inde
 
 ---
 
-Currently, only one document with CVs is hosted, and it is used for the ELAN files in the project [From gesture to speech: multimodal analysis of spoken Estonian](https://www.etis.ee/Portal/Projects/Display/f8fb4c0e-96a9-42fd-a241-9d4508a846dd).
+Currently, only one file with CVs is hosted (`gestureCVs.ecv`), and it is used for the ELAN files in the project [From gesture to speech: multimodal analysis of spoken Estonian](https://www.etis.ee/Portal/Projects/Display/f8fb4c0e-96a9-42fd-a241-9d4508a846dd).
 
 
 
