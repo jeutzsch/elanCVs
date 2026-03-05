@@ -78,4 +78,28 @@
             <CVE_VALUE DESCRIPTION="" LANG_REF="und">undefined</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="actuator_type_CV">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid_802c6daa-d178-42a9-b36d-e96cbb206a50">
+            <CVE_VALUE LANG_REF="und">hand</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ed554bdf-d5bc-4219-9a9f-c3f01a732c07">
+            <CVE_VALUE LANG_REF="und">index finger</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_55a95e97-babe-41f4-bde1-6bcff7af29ec">
+            <CVE_VALUE LANG_REF="und">thumb</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b7dd5122-d923-46e4-b443-447dfdc139d2">
+            <CVE_VALUE LANG_REF="und">fingers</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8a74818c-40b1-493a-8e23-49d73a799dce">
+            <CVE_VALUE LANG_REF="und">elbow</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_bd4cdbbd-a7b1-4ec3-b4ec-6686c02150c6">
+            <CVE_VALUE LANG_REF="und">shoulder</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f0a93abb-08db-4b6a-92ff-5757980f47e5">
+            <CVE_VALUE LANG_REF="und">other</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
 </CV_RESOURCE>
